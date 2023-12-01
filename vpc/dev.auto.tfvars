@@ -2,6 +2,7 @@ main = {
   project = ""
   region  = "europe-west1"
 }
+
 #################### VPC Inputs #######################
 networks = {
   vpc1 = {
